@@ -22,8 +22,8 @@ import (
 	"path/filepath"
 	"strings"
 
+	"github.com/bluelabs-eu/smithy"
 	"github.com/boynton/data"
-	"github.com/boynton/smithy"
 )
 
 func main() {

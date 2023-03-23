@@ -1,4 +1,4 @@
-module github.com/boynton/smithy
+module github.com/bluelabs-eu/smithy
 
 go 1.17
 
